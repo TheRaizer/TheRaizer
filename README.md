@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![TheRaizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRaizer&show_icons=true&theme=TheRaizer)](https://github.com/TheRaizer/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=TheRaizer&show_icons=true&theme=TheRaizer)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRaizer)](https://github.com/TheRaizer/github-readme-stats)
 
 - 🔭 I’m currently working on a 2D farm simulator in Unity.
