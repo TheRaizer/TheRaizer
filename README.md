@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?username=TheRaizer)
+![visitors](https://visitor-badge.glitch.me/badge?TheRaizer=TheRaizer)
 
 ### Hi there 👋
 
