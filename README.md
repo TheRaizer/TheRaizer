@@ -5,4 +5,3 @@
 
 - 👯 I’m looking to collaborate on anything that I may be able to contribute too or learn from including (but not restricted to) projects that fall under machine learning, game programming, web development, or web3.
 - 📫 How to reach me: email @aidan.fu000@gmail.com
-- 😄 Pronouns: He, him, his
